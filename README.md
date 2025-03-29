@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on GSV School Website.<br>🤝 I’m looking for help with Web Development.<br>🌱 I’m currently learning Backend Development.<br>💬 Ask me about Python, and Frontend Development.<br>⚡ Fun fact: Too young to be a Programmer.
+🔭 I’m currently working on GSV School Website.<br>🤝 I’m looking for help with Web Development.<br>🌱 I’m currently learning Backend Development.<br>💬 Ask me about Python, and Frontend Development.
 
 
 # 💻 Tech Stack:
